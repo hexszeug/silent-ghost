@@ -1,0 +1,35 @@
+{
+  "item.sg.silent_birch": "Silent Birch",
+  "item.sg.silent_ghost": "Silent Ghost",
+  "item.sg.attack_damage": "atk. damage",
+  "item.sg.portal.bottom": "Silent Desert Portal [bottom]",
+  "item.sg.portal.middle": "Silent Desert Portal [middle]",
+  "item.sg.portal.top": "Silent Desert Portal [top]",
+
+  "advancements.sg.the_birchism.ingredients": "Let's go to the Birchism",
+  "advancements.sg.the_birchism.ingredients.description": "Have 4 stripped birch wood and a snowball in your inventory",
+
+  "advancements.sg.the_birchism.portal": "The Birchism?",
+  "advancements.sg.the_birchism.portal.description": "Open a Silent Birch Portal",
+
+  "advancements.sg.the_birchism.root": "The Birchism",
+  "advancements.sg.the_birchism.root.description": "Enter the Birchism",
+
+  "advancements.sg.the_birchism.silent_birch_forest": "Pssst... The birches",
+  "advancements.sg.the_birchism.silent_birch_forest.description": "Find a Silent Birch Forest",
+
+  "advancements.sg.the_birchism.silent_birch_kill": "A birch in my bag",
+  "advancements.sg.the_birchism.silent_birch_kill.description": "Have a Silent Birch in your inventory",
+
+  "advancements.sg.silent_desert.portal": "A high-tech portal",
+  "advancements.sg.silent_desert.portal.description": "Open the Silent Desert Portal",
+
+  "advancements.sg.silent_desert.root": "Silent Desert",
+  "advancements.sg.silent_desert.root.description": "Enter the Silent Desert",
+
+  "advancements.sg.silent_desert.ghost": "Huuuuuh... I'm a ghost",
+  "advancements.sg.silent_desert.ghost.description": "Spawn the Silent Ghost",
+
+  "advancements.sg.silent_desert.ghost_death": "It is loud here",
+  "advancements.sg.silent_desert.ghost_death.description": "Kill the Silent Ghost"
+}

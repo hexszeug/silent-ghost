@@ -1,0 +1,10 @@
+{
+  "parent": "block/command_block",
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "sg:the_birchism/silent_birch"},
+    {"predicate": {"custom_model_data": 2}, "model": "sg:portal/bottom"},
+    {"predicate": {"custom_model_data": 3}, "model": "sg:portal/middle"},
+    {"predicate": {"custom_model_data": 4}, "model": "sg:portal/top"},
+    {"predicate": {"custom_model_data": 5}, "model": "sg:portal/middle_on"}
+  ]
+}

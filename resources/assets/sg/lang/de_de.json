@@ -1,0 +1,35 @@
+{
+  "item.sg.silent_birch": "Leise Birke",
+  "item.sg.silent_ghost": "Stilles Gespenst",
+  "item.sg.attack_damage": "Angriffsschaden",
+  "item.sg.portal.bottom": "Portal der Stillen Wüste [unten]",
+  "item.sg.portal.middle": "Portal der Stillen Wüste [mitte]",
+  "item.sg.portal.top": "Portal der Stillen Wüste [oben]",
+
+  "advancements.sg.the_birchism.ingredients": "Auf in den Birkmus",
+  "advancements.sg.the_birchism.ingredients.description": "Habe 4 mal entrindetes Birkenholz und einen Schneeball im Inventar",
+
+  "advancements.sg.the_birchism.portal": "Der Birkmus?",
+  "advancements.sg.the_birchism.portal.description": "Eröffne ein Portal in den Birkmus",
+
+  "advancements.sg.the_birchism.root": "Der Birkmus",
+  "advancements.sg.the_birchism.root.description": "Gehe in den Birkmus",
+
+  "advancements.sg.the_birchism.silent_birch_forest": "Pssst... Die Birken",
+  "advancements.sg.the_birchism.silent_birch_forest.description": "Finde eine Wald der Leisen Birken",
+
+  "advancements.sg.the_birchism.silent_birch_kill": "Eine Birke im Gepäck",
+  "advancements.sg.the_birchism.silent_birch_kill.description": "Habe eine Leise Birke in deinem Inventar",
+
+  "advancements.sg.silent_desert.portal": "Ein High-Tech-Portal",
+  "advancements.sg.silent_desert.portal.description": "Offne ein Portal in die Stille Wüste",
+
+  "advancements.sg.silent_desert.root": "Stille Wüste",
+  "advancements.sg.silent_desert.root.description": "Gehe in die Stille Wüste",
+
+  "advancements.sg.silent_desert.ghost": "Huuuuuh... Ich bin ein Gespenst",
+  "advancements.sg.silent_desert.ghost.description": "Spawne das Stille Gespenst",
+
+  "advancements.sg.silent_desert.ghost_death": "Es ist laut hier",
+  "advancements.sg.silent_desert.ghost_death.description": "Töte das Stille Gespenst"
+}

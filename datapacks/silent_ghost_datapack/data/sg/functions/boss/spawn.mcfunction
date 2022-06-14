@@ -1,0 +1,4 @@
+summon piglin_brute ~ ~ ~ {Silent:1b,CustomNameVisible:0b,DeathLootTable:"sg:boss",PersistenceRequired:1b,CanPickUpLoot:0b,Health:1024f,IsImmuneToZombification:1b,Tags:["boss"],Passengers:[{id:"minecraft:armor_stand",NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Invisible:1b,Marker:1b,NoBasePlate:1b,PersistenceRequired:1b,Tags:["boss_dth_dtc"]}],CustomName:'{"text":"Silent Ghost","color":"white"}',ActiveEffects:[{Id:8b,Amplifier:3b,Duration:10000,ShowParticles:0b},{Id:14b,Amplifier:1b,Duration:10000,ShowParticles:0b},{Id:28b,Amplifier:1b,Duration:10000,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:400},{Name:generic.follow_range,Base:50},{Name:generic.knockback_resistance,Base:0.5},{Name:generic.movement_speed,Base:0.45},{Name:generic.attack_damage,Base:32},{Name:generic.armor,Base:32},{Name:generic.attack_knockback,Base:50}]}
+scoreboard players set #secBoss data -1
+scoreboard players set #skillBoss data 2
+scoreboard players set #isBoss data 1
